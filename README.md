@@ -45,10 +45,15 @@ The dataset includes:
    pip install -r requirements.txt
    ```
 
-### Example Insights
-- **Peak Sales Times**: Mornings (8-10 AM) and afternoons (2-4 PM) drive the most sales.
-- **Popular Drinks**: Espresso-based drinks dominate sales.
-- **Preferred Payment Methods**: Credit cards are the most common payment method.
+### Insights
+- **Peak Sales Times**: Weeks outpace weekends.
+  <img width="679" height="422" alt="image" src="https://github.com/user-attachments/assets/f0e20b5a-e614-4ba1-aa04-2c2c097ca0ca" />
+
+- **Popular Drinks**: Milk-based drinks dominate sales.
+  <img width="686" height="335" alt="image" src="https://github.com/user-attachments/assets/0c028023-6f1c-401b-a8af-8c9ab95a28f2" />
+
+- **Gaps in afternoon**: Booms are in the morning to start the day.
+  <img width="696" height="412" alt="image" src="https://github.com/user-attachments/assets/ad7c5c67-2b2d-4ccb-9d75-4767b2700b38" />
 
 ### Contributing
 Contributions are welcome! If you have ideas for improving the analysis or adding new features, feel free to fork the repository and submit a pull request.
